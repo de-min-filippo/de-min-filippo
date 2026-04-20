@@ -1,7 +1,5 @@
 # University Projects Overview
 
-A collection of academic and personal projects spanning machine learning, statistics, NLP, finance, and data analysis.
-
 ---
 
 ## Project Portfolio

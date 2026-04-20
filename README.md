@@ -1,7 +1,5 @@
 # University Projects Overview
 
----
-
 ## Project Portfolio
 
 <table>

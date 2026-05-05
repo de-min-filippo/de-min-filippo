@@ -4,11 +4,6 @@
 
 <table>
   <thead>
-    <tr>  <td><a href="https://github.com/FiliDeMin/thesis-rag-music-recommender">🔗</a></td>  
-      <td>Built a RAG-based emotion-aware music recommendation system using Spotify metadata, Genius lyrics, and audio features from 220k+ songs</td>
-      <td>Achieved strong emotional retrieval performance (MRR@10 = 0.78, nDCG@10 = 0.80) with fully grounded playlist generation</td>
-      <td>RAG systems, vector databases, LLM orchestration, semantic retrieval, NLP for music recommendation</td>
-    </tr>
     <tr>
       <th style="width: 60px;">Project</th>
       <th>Description</th>
@@ -17,6 +12,11 @@
     </tr>
   </thead>
   <tbody>
+        <tr>  <td><a href="https://github.com/FiliDeMin/thesis-rag-music-recommender">🔗</a></td>  
+      <td>Built a RAG-based emotion-aware music recommendation system using Spotify metadata, Genius lyrics, and audio features from 220k+ songs</td>
+      <td>Achieved strong emotional retrieval performance (MRR@10 = 0.78, nDCG@10 = 0.80) with fully grounded playlist generation</td>
+      <td>RAG systems, vector databases, LLM orchestration, semantic retrieval, NLP for music recommendation</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/FiliDeMin/probit-heart-disease-analysis">🔗</a></td>
       <td>Developed frequentist and Bayesian Probit models to estimate heart disease risk using the SAheart dataset</td>
